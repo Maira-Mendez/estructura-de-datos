@@ -1,2 +1,2 @@
-# listas-doblemente-enlazadas
-Se trabaja estructura de datos con listas doblemente enlazadas con un menu de posibles cambios o modificaciones a la lista, se realiza en el lenguaje c++
+# estructura de datos
+Se muestra todo uncurso de estructura de datos, teniendo en cuenta el trabajo con nodos, se realizan los cuatro tipos de listas, enlazadas simples, doblemente enlazadas, enlazadas simples circulares y doblemente enlazadas circulares, aparte se muestra bien estructurado los programas con menus 
